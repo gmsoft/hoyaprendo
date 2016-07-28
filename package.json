@@ -1,0 +1,18 @@
+{
+  "name": "hoyaprendo-server",
+  "version": "0.0.1",
+  "description": "hoyaprendo server",
+  "main": "server.js",
+  "dependencies": {
+    "body-parser": "^1.15.1",
+    "compression": "^1.6.2",
+    "cors": "^2.7.1",
+    "express": "^4.13.4",
+    "express-static-cache": "0.0.6",
+    "jwt-simple": "^0.5.0",
+    "method-override": "^2.3.6",
+    "moment": "^2.13.0",
+    "morgan": "^1.7.0",
+    "mysql": "^2.10.2"
+  }
+}
